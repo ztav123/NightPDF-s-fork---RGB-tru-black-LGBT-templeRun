@@ -1,3 +1,5 @@
+I hope I could make a feature that allow me to adjust just only certain type of text in the pdf such as black text on white background; so that, when the whole pdf got inverted, the background would get true black RGB and the text would get true white RGB. I'm sick of seeing incomplete white text which hurts my eyes and my mind.
+
 # NightPDF
 
 Dark Mode PDF reader
